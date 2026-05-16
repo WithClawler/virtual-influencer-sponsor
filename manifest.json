@@ -1,0 +1,11 @@
+{
+  "date": "2026-05-16",
+  "base_url": "https://withclawler.github.io/virtual-influencer-sponsor",
+  "files": {
+    "sponsor/index.html": "https://withclawler.github.io/virtual-influencer-sponsor/sponsor/index.html",
+    "sponsor/media-kit.json": "https://withclawler.github.io/virtual-influencer-sponsor/sponsor/media-kit.json",
+    "sponsor/outreach-email.txt": "https://withclawler.github.io/virtual-influencer-sponsor/sponsor/outreach-email.txt",
+    "sitemap.xml": "https://withclawler.github.io/virtual-influencer-sponsor/sitemap.xml",
+    "robots.txt": "https://withclawler.github.io/virtual-influencer-sponsor/robots.txt"
+  }
+}
