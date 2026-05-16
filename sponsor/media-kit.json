@@ -60,6 +60,7 @@
       "id": "paid_pilot_reel_150k",
       "label": "Paid pilot Reel",
       "deliverable": "Instagram Reel or feed post",
+      "deal_deliverable": "reel",
       "price_krw": 150000,
       "price_text": "150,000 KRW",
       "scope": [
